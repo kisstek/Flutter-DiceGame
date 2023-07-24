@@ -45,7 +45,7 @@ class _DicePageState extends State<DicePage> {
             child: TextButton(
               onPressed: (){
                 diceFaceChange();
-                print('hello');
+                print('hello hh');
               },
               child: Image.asset('images/dice$leftDiceNum.png',width: 50,height: 50,),
             ),
